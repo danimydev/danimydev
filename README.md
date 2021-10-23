@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Zemoga](https://www.zemoga.com/)
 
-- 🌱 I’m currently learning **with Epic React!**
+- 🌱 I’m currently learning **Graph QL & Docker**
 
 - 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any server application.**
 
