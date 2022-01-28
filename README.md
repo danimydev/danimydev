@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Daniel Madrid</h1>
 <h3>A Backend Developer 💻</h3>
 
-- 🔭 I’m currently working on [Zemoga](https://www.zemoga.com/)
+- 🔭 I’m currently working at [Globant](https://www.globant.com/)
 
-- 🌱 I’m currently learning **Graph QL & Docker**
+- 🌱 I’m learning **Graph QL & Adonis JS**
 
 - 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any server application.**
 
@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/dani_my98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dani_my98" height="30" width="40" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danimydev&show_icons=true&locale=en&layout=compact" alt="danimydev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danimydev&show_icons=true&locale=en" alt="danimydev" /></p>
 
 <a href="https://daniel-madrid.webflow.io/">Check out my website!</a>
 
