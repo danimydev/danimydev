@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Daniel Madrid</h1>
 <h3>A Backend Developer 💻</h3>
 
-- 🔭 I’m currently working at [EPAM](https://www.epam.com/)
-
 - 🌱 I’m learning **gRPCs, AWS and Software Arquitecture**
 
 - 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any server application.**
