@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi 👋, I'm Daniel Madrid</h1>
-<h3>A Backend Developer 💻</h3>
+<h1 align="center">Hi 👋, I'm Daniel Madrid</h1>
+<h3 align="center">A Backend Developer 💻</h3>
+<br>
 
 - 🌱 I’m learning **gRPCs, AWS and Software Arquitecture**
 
