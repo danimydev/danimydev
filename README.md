@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Daniel Madrid</h1>
-<h3 align="center">A Backend Developer 💻</h3>
+
+![profile_banner-1](https://user-images.githubusercontent.com/31113489/221237906-2b92938d-630b-4cd2-bbf1-831f1ac92619.jpg)
+
 <br>
 
 - 🌱 I’m learning **gRPCs, AWS and Software Arquitecture**
